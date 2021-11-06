@@ -31,3 +31,5 @@ Here's a walkthrough of implemented user stories:
 
 ![pars3](https://user-images.githubusercontent.com/91364746/140585905-049e6d78-fa8b-4624-a33e-697f86ea4641.gif)
 
+![pars4](https://user-images.githubusercontent.com/91364746/140615430-45fd131a-d105-461f-baef-aad294b23e9b.gif)
+
