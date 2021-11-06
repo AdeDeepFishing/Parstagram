@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can sign up to create a new account. (1pt)
-- [ ] User can log in. (1pt)
+- [X] User can log in. (1pt)
 - [X] User can take a photo, add a caption, and post it to the server. (3pt)
 - [X] User can view the last 20 posts. (4pts)
 
@@ -32,4 +32,6 @@ Here's a walkthrough of implemented user stories:
 ![pars3](https://user-images.githubusercontent.com/91364746/140585905-049e6d78-fa8b-4624-a33e-697f86ea4641.gif)
 
 ![pars4](https://user-images.githubusercontent.com/91364746/140615430-45fd131a-d105-461f-baef-aad294b23e9b.gif)
+
+![pars5](https://user-images.githubusercontent.com/91364746/140616769-8cad0c15-6c5f-4413-ae0c-010f74412ede.gif)
 
